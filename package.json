@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-mjml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

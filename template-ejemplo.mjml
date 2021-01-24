@@ -1,0 +1,114 @@
+<mjml>
+	<mj-head>
+    <mj-attributes>
+      <mj-text font-size="14px" />
+    	<mj-divider border-width="1px" border-color="lightgrey" padding="0" />
+      <mj-class name="texto-producto" font-size="14px" color="#555" line-height="4px" />
+		</mj-attributes>
+  </mj-head>
+  
+  <mj-body background-color="white">
+    
+    <mj-section padding="0px" padding-top="20px">
+    	<mj-column>
+      	<mj-image src="https://lakis.cl/img/logo.png" height="65px" width="130px"></mj-image>
+        <mj-divider padding-top="20px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+    	<mj-column>
+      	<mj-text align="center" color="#999">Pedido #XXXXXXXX</mj-text>
+        <mj-text align="center" font-size="24px">Gracias por su compra.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    <mj-section padding="20px" padding-bottom="40px" background-color="#eee">
+      <mj-column>
+        
+        <mj-text font-weight="bold">Fecha:</mj-text>
+        <mj-text>2021-01-24</mj-text>
+        
+        <mj-text font-weight="bold">Forma de Pago:</mj-text>
+        <mj-text>Tarjeta de Crédito</mj-text>
+        
+        <mj-text font-weight="bold">Monto:</mj-text>
+        <mj-text>$24.990.-</mj-text>
+        
+      </mj-column>
+      
+      <mj-column>
+      
+        <mj-text font-weight="bold">Costo de Envío:</mj-text>
+        <mj-text>$3.900.-</mj-text>
+        
+        <mj-text font-weight="bold">Datos para el Envío:</mj-text>
+        <mj-text>Nueva Platón #5400<br /> Quinta Normal, Región Metropolitana. <br /> Carolina Mendoza <br />RUT: 13.935.382-K <br />tel: +56 9 8888 4444</mj-text>
+        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="30px">
+    	<mj-column>
+      	<mj-text font-weight="bold" font-size="20px" align="center">Detalle:</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0px">
+    	<mj-column>
+      	<mj-image width="200px" src="https://res.cloudinary.com/lakis-cl/image/upload/w_410,h_390,c_fill/productos/hncgd4ksoaivd9glfsfw" />
+      </mj-column>
+      <mj-column vertical-align="top" padding-top="40px">
+      	<mj-text mj-class="texto-producto" font-weight="bold">Producto dos</mj-text>
+        <mj-text mj-class="texto-producto">1u x $16.990.-</mj-text>
+        <mj-text mj-class="texto-producto">Subtotal: $16.990.-</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column>
+      	<mj-divider />
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0px">
+    	<mj-column>
+      	<mj-image width="200px" src="https://res.cloudinary.com/lakis-cl/image/upload/w_410,h_390,c_fill/productos/bnguplo8a1avdsusubbf" />
+      </mj-column>
+      <mj-column vertical-align="top" padding-top="40px">
+      	<mj-text mj-class="texto-producto" font-weight="bold">Producto uno</mj-text>
+        <mj-text mj-class="texto-producto">2u x $1.100.-</mj-text>
+        <mj-text mj-class="texto-producto">Subtotal: $2.200.-</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column>
+      	<mj-divider />
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    <mj-section padding="0" padding-top="30px">
+    	<mj-column>
+      	<mj-button href="https://www.lakis.cl/pedido/estado/XXXXXXXXXXX" background-color="#633" color="white">Ver Estado del Pedido</mj-button>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    <mj-section>
+      <mj-column background-color="#633">
+        <mj-social align="center">
+          <mj-social-element name="facebook-noshare" href="https://www.facebook.com/LAKISCL"></mj-social-element>
+          <mj-social-element name="instagram-noshare" href="https://www.instagram.com/comerlakis"></mj-social-element>
+          <mj-social-element name="web" href="https://www.lakis.cl"></mj-social-element>
+        </mj-social>
+      	<mj-text color="white" align="center">&copy; Todos los derechos reservados por Lakis</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+  </mj-body>
+</mjml>
